@@ -8,7 +8,7 @@ const styles = theme => ({
     boxShadow: '0px 0px 2px black'
   },
   titleInput: {
-    height: '50px',
+    height: '100vh',
     boxSizing: 'border-box',
     border: 'none',
     padding: '5px',
