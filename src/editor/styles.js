@@ -8,14 +8,14 @@ const styles = theme => ({
     boxShadow: '0px 0px 2px black'
   },
   titleInput: {
-    height: '100vh',
+    height: '50px',
     boxSizing: 'border-box',
     border: 'none',
     padding: '5px',
     fontSize: '24px',
     width: 'calc(100% - 300px)',
-    // backgroundColor: '#29487d',
-    // color: 'white',
+    backgroundColor: '#29487d',
+    color: 'white',
     paddingLeft: '50px'
   },
   editIcon: {
@@ -27,7 +27,7 @@ const styles = theme => ({
     height: '10'
   },
   editorContainer: {
-    height: '100%',
+    height: '100vh',
     boxSizing: 'border-box'
   }
 });
