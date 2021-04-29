@@ -9,13 +9,13 @@ import firebase from 'firebase';
 // require('firebase/firestore');
 
 var firebaseConfig = {
-  apiKey: "AIzaSyB_Pq5AHrbKM2te-Ky1Zm45BqIodKLLNX0",
-  authDomain: "evernote-clone-44896.firebaseapp.com",
-  databaseURL: "https://evernote-clone-44896.firebaseio.com",
-  projectId: "evernote-clone-44896",
-  storageBucket: "evernote-clone-44896.appspot.com",
-  messagingSenderId: "915706065297",
-  appId: "1:915706065297:web:103bb9bcb967aef5"
+  apiKey: "AIzaSyDyufsUuHkitK0icNi-SNirUuKMRPs1Bww",
+    authDomain: "evernote-clone-1de9b.firebaseapp.com",
+    projectId: "evernote-clone-1de9b",
+    storageBucket: "evernote-clone-1de9b.appspot.com",
+    messagingSenderId: "238735713007",
+    appId: "1:238735713007:web:cc55dc0d34e4f9d584311a",
+    measurementId: "G-GLPNC22V9P"
 
 }
 
