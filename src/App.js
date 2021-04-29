@@ -40,6 +40,7 @@ class App extends React.Component {
     firebase
       .firestore()
       .collection('notes')
+      .orderBy("timestamp", "desc")
       .onSnapshot(serverUpdate => {
         const notes = serverUpdate.docs.map(_doc => {
           const data = _doc.data();
