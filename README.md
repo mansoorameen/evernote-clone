@@ -1,3 +1,9 @@
+built this evernote clone that create, edit, and delete notes
+                -auto updates the note content and title as the user stops typing<br>
+                -most recent note on top on left side bar etc.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
